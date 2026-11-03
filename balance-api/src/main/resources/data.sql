@@ -1,0 +1,2 @@
+INSERT INTO accounts (id, account_number, balance, currency) VALUES (1, 'ACC-1001', 5000.50, 'USD');
+INSERT INTO accounts (id, account_number, balance, currency) VALUES (2, 'ACC-1002', 12500.00, 'EUR');
